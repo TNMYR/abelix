@@ -1,0 +1,6 @@
+build/
+*.bd
+*.un~
+*~
+*.code-workspace
+lib/
